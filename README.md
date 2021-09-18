@@ -1,2 +1,3 @@
 # Dice-Roll
- A simple app to roll a dice
+ A simple app to roll a dice.
+ 
